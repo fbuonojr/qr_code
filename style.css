@@ -14,7 +14,11 @@
 
 #body {
     background-color: hsl(212, 45%, 89%);
-    padding-top: 10%;
+    display: flex;
+    padding: 5%;
+    justify-content: center; 
+    align-items: center; 
+    text-align: center;
 }
 
 #card {
@@ -29,6 +33,9 @@
 .attribution a {
     color: hsl(228, 45%, 44%);
     font-family: Outfit, sans-serif;
+    position: fixed;
+    bottom: 0;
+    display: none;
 }
 
 #code {
