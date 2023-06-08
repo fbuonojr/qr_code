@@ -23,6 +23,8 @@
 
 #card {
     background-color: hsl(0, 0%, 100%);
+    border-radius: 30px;
+    box-shadow: 20px 20px 20px hsl(218, 44%, 22%);
 }
 
 .attribution {
@@ -33,9 +35,6 @@
 .attribution a {
     color: hsl(228, 45%, 44%);
     font-family: Outfit, sans-serif;
-    position: fixed;
-    bottom: 0;
-    display: none;
 }
 
 #code {
