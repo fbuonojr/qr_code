@@ -1,26 +1,31 @@
-@import url('https://fonts.google.com/specimen/Outfit');
+/* The designs were created to the following widths:
 
-@media screen and (min-width:500px) {
+- Mobile: 375px
+- Desktop: 1440px */
+@media screen and (min-width:375px) {
     body {
         background-color: yellow;
     }
 }
 
-@media screen and (max-width:500px) {
+@media screen and (max-width:1440px) {
     body {
         background-color: purple;
     }
 }
 
 #heading {
-    font-family: Outfit;
     font-weight: 700;
     padding: 5%;
+    color: hsl(218, 44%, 22%);
+    font-family: Outfit, sans-serif;
 }
 
 #pText {
-    font-family: Outfit;
+    font-size: 15px;
     font-weight: 400;
+    color: hsl(220, 15%, 55%);
+    font-family: Outfit, sans-serif;
 }
 
 #body {
@@ -30,4 +35,19 @@
 
 #card {
     background-color: hsl(0, 0%, 100%);
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+    font-family: Outfit, sans-serif;
+}
+
+#code {
+    height: auto; 
+    width: auto;
 }
