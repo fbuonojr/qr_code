@@ -18,8 +18,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 ![](./images/screenshot.jpg)
 ### Links
-- Solution Repo URL: [](https://github.com/fbuonojr/qr_code)
-- Live Site URL: [](https://fbuonojr.github.io/qr_code/)
+- [Solution Repo URL: ](https://github.com/fbuonojr/qr_code)
+- [Live Site URL: ](https://fbuonojr.github.io/qr_code/)
 
 ## Built With
 -HTML5
@@ -28,4 +28,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 - Frank Buono
--Github: [](https://github.com/fbuonojr)
+-[Github: ](https://github.com/fbuonojr)
