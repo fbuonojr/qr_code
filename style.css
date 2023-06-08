@@ -1,12 +1,18 @@
-@media screen and (min-width:500px){
-    body{
+@media screen and (min-width:500px) {
+    body {
         background-color: yellow;
     }
 }
-@media screen and (max-width:500px){
-    body{
+
+@media screen and (max-width:500px) {
+    body {
         background-color: purple;
     }
+}
+
+#heading {
+    font-family: url(https://fonts.google.com/specimen/Outfit);
+    font-weight: 700;
 }
 
 #body {
