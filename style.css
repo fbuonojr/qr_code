@@ -1,3 +1,5 @@
+@import url('https://fonts.google.com/specimen/Outfit');
+
 @media screen and (min-width:500px) {
     body {
         background-color: yellow;
@@ -11,8 +13,14 @@
 }
 
 #heading {
-    font-family: url(https://fonts.google.com/specimen/Outfit);
+    font-family: Outfit;
     font-weight: 700;
+    padding: 5%;
+}
+
+#pText {
+    font-family: Outfit;
+    font-weight: 400;
 }
 
 #body {
